@@ -1,0 +1,23 @@
+{{- define "main" -}}
+
+<div class="pub">
+
+  {{ partial "page_header_publication.html" . }}
+
+  <div class="article-container">
+
+    {{ if .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract" style="font-size:medium">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+
+
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ partial "page_footer_publication" . }}
+
+  </div>
+</div>
+{{- end -}}

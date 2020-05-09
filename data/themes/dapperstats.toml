@@ -1,0 +1,25 @@
+# Theme metadata
+name = "dapperstats"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#30718E"
+primary_light = "#30718E"
+primary_dark = "#00c4a7"
+
+# Links
+link = "#0277bd"
+link_hover = "#004c8c"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#8AC8CA"
+menu_text_active = "#385A71"
+menu_title = "#2b2b2b"
+
+# Backgrounds
+background = "#eaf9ff"
+home_section_odd = "#eaf9ff"
+home_section_even = "#eaf9ff"

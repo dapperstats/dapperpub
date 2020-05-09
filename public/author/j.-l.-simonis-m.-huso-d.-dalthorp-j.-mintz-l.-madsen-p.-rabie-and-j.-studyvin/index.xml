@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. L. Simonis, M. Huso, D. Dalthorp, J. Mintz, L. Madsen, P. Rabie, and J. Studyvin | DAPPER Publishing</title>
+    <link>/author/j.-l.-simonis-m.-huso-d.-dalthorp-j.-mintz-l.-madsen-p.-rabie-and-j.-studyvin/</link>
+      <atom:link href="/author/j.-l.-simonis-m.-huso-d.-dalthorp-j.-mintz-l.-madsen-p.-rabie-and-j.-studyvin/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. L. Simonis, M. Huso, D. Dalthorp, J. Mintz, L. Madsen, P. Rabie, and J. Studyvin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER LLC, 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.jpg</url>
+      <title>J. L. Simonis, M. Huso, D. Dalthorp, J. Mintz, L. Madsen, P. Rabie, and J. Studyvin</title>
+      <link>/author/j.-l.-simonis-m.-huso-d.-dalthorp-j.-mintz-l.-madsen-p.-rabie-and-j.-studyvin/</link>
+    </image>
+    
+    <item>
+      <title>GenEst User Guide—Software for a Generalized Estimator of Mortaltiy</title>
+      <link>/publication/simonis_etal_2018b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/simonis_etal_2018b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

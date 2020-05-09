@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. L. Simonis, S. Zeug, and K. Ross | DAPPER Publishing</title>
+    <link>/author/j.-l.-simonis-s.-zeug-and-k.-ross/</link>
+      <atom:link href="/author/j.-l.-simonis-s.-zeug-and-k.-ross/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. L. Simonis, S. Zeug, and K. Ross</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER LLC, 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.jpg</url>
+      <title>J. L. Simonis, S. Zeug, and K. Ross</title>
+      <link>/author/j.-l.-simonis-s.-zeug-and-k.-ross/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Loss of Chinook Salmon and Natural-Origin steelhead at the Central Valley Project and State Water Project</title>
+      <link>/publication/simonis_etal_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/simonis_etal_2016/</guid>
+      <description>&lt;p&gt;See the 
+&lt;a href=&#34;/code/loss/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

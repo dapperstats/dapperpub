@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Dalthorp, L Madsen, M. Huso, R. Wolpert, P. Rabie, J. Studyvin, J. L. Simonis, and J. Mintz | DAPPER Publishing</title>
+    <link>/author/d.-dalthorp-l-madsen-m.-huso-r.-wolpert-p.-rabie-j.-studyvin-j.-l.-simonis-and-j.-mintz/</link>
+      <atom:link href="/author/d.-dalthorp-l-madsen-m.-huso-r.-wolpert-p.-rabie-j.-studyvin-j.-l.-simonis-and-j.-mintz/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Dalthorp, L Madsen, M. Huso, R. Wolpert, P. Rabie, J. Studyvin, J. L. Simonis, and J. Mintz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER LLC, 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.jpg</url>
+      <title>D. Dalthorp, L Madsen, M. Huso, R. Wolpert, P. Rabie, J. Studyvin, J. L. Simonis, and J. Mintz</title>
+      <link>/author/d.-dalthorp-l-madsen-m.-huso-r.-wolpert-p.-rabie-j.-studyvin-j.-l.-simonis-and-j.-mintz/</link>
+    </image>
+    
+    <item>
+      <title>GenEst Statistical Models—A Generalized Estimator of Mortality</title>
+      <link>/publication/dalthorp_etal_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dalthorp_etal_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

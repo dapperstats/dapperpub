@@ -1,0 +1,103 @@
+# SITE SETUP
+
+theme = "dapperstats"
+day_night = false
+font = "dapperstats"
+font_size = "L"
+
+site_type = "Corporation"
+org_name = "DAPPER Stats"
+
+description = "Homepage of DAPPER Stats"
+
+highlight = true
+highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+
+math = true
+diagram = true
+privacy_pack = true
+edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+
+email = "contact@dapperstats.com"
+phone = ""
+address = {street = "3519 NE 15th Ave, Suite 467", city = "Portland", region = "OR", postcode = "97212", country = "United States", country_code = "US"}
+coordinates = {latitude = "45.548409", longitude = "-122.651241"}
+directions = ""
+office_hours = []
+appointment_url = ""
+
+contact_links = [
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/dapperstats"},
+  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/dapperstats"},
+  ]
+sharing_image = "share_logo.jpg"
+twitter = "dapperstats"
+sharing = false
+
+date_format = "2006-01-02"
+time_format = "15:04"
+address_format = "en-us"
+
+main_menu = {align = "r", show_logo = true}
+reading_time = false
+
+
+section_pager = false
+docs_section_pager = true
+
+link_authors = false
+
+abstract_length = 135
+
+#   To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
+plugins_js  = []
+
+[avatar]
+  gravatar = false
+  shape = "circle"
+
+
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+[publications]
+  date_format = "January 2006"
+  citation_style = "apa"
+
+[projects]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  post_view = 2
+  publication_view = 2
+  talk_view = 2
+
+[comments]
+  engine = 0
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+
+
+[search]
+  #   1: Academic (built-in)
+  engine = 1
+
+
+[map]
+  engine = 0
+  api_key = ""
+  zoom = ""
+
+[marketing]
+  google_analytics = ""
+  google_tag_manager = ""
+
+[cms]
+  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+  netlify_cms = true

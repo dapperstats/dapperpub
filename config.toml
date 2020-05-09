@@ -1,0 +1,71 @@
+title = "DAPPER Publishing"
+baseurl = "/"
+copyright = "&copy; DAPPER LLC, {year}"
+theme = "hugo-academic"
+enableGitInfo = false
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false  
+defaultContentLanguageInSubdir = false
+removePathAccents = true  
+
+summaryLength = 30  
+paginate = 10  
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
+  post = "/:year/:month/:day/:slug/"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  
+  [markup.highlight]
+    codeFences = false  
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fab"
+  link = "mailto:pub@dapperstats.com"
+
+[[params.social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "//twitter.com/dapperpub"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "//github.com/dapperstats/dapperpub"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. A. Fidino, J. L. Simonis, and S. B. Magle | DAPPER Publishing</title>
+    <link>/author/m.-a.-fidino-j.-l.-simonis-and-s.-b.-magle/</link>
+      <atom:link href="/author/m.-a.-fidino-j.-l.-simonis-and-s.-b.-magle/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. A. Fidino, J. L. Simonis, and S. B. Magle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER LLC, 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.jpg</url>
+      <title>M. A. Fidino, J. L. Simonis, and S. B. Magle</title>
+      <link>/author/m.-a.-fidino-j.-l.-simonis-and-s.-b.-magle/</link>
+    </image>
+    
+    <item>
+      <title>A multistate dynamic occupancy model to estimate local colonization–extinction rates and patterns of co-occurrence between two or more interacting species</title>
+      <link>/publication/fidino_etal_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/fidino_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

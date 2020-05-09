@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | DAPPER Publishing</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© DAPPER LLC, 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/share_logo.jpg</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>The influence of data type and functional traits on native bee phenology metrics: Opportunistic versus inventory records</title>
+      <link>/publication/meiners_etal_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/meiners_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
